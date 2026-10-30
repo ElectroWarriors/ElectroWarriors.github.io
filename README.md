@@ -47,4 +47,4 @@ Deployment progress is available in the repository's Actions tab and Settings â†
 - Biography and publication information: [CODA lab profile](https://krz.engineer/people/jinhong-huang/), with additions and corrections by Jinhong Huang.
 - Project descriptions: [ULTRA-2.5D](https://github.com/ElectroWarriors/ULTRA-2.5D) and [graduation_project](https://github.com/ElectroWarriors/graduation_project).
 - Project overview and interface screenshots supplied by Jinhong Huang.
-- Profile image from the [ElectroWarriors GitHub profile](https://github.com/ElectroWarriors).
+- Profile photograph supplied by Jinhong Huang.

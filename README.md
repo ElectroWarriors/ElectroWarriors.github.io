@@ -7,9 +7,9 @@ Personal academic website for Jinhong Huang, a Ph.D. student at Fudan University
 
 ## Pages
 
-- `index.html`: personal introduction.
+- `index.html`: personal introduction and news.
 - `research/index.html`: research interests and publications.
-- `projects/index.html`: ULTRA-2.5D and the undergraduate graduation project.
+- `projects/index.html`: RAPID-DTC, ULTRA-2.5D, and the undergraduate graduation project.
 - `education/index.html`: education.
 - `styles.css` and `script.js`: shared styles and optional theme switching.
 - `assets/`: profile image, project figures, and favicon.
@@ -45,6 +45,7 @@ Deployment progress is available in the repository's Actions tab and Settings â†
 
 - Layout inspired by [AcademicPages](https://github.com/academicpages/academicpages.github.io) and [Yaojia Wang's homepage](https://wang-yaojia.github.io/); implemented as standalone HTML, CSS, and JavaScript.
 - Biography and publication information: [CODA lab profile](https://krz.engineer/people/jinhong-huang/), with additions and corrections by Jinhong Huang.
-- Project descriptions: [ULTRA-2.5D](https://github.com/ElectroWarriors/ULTRA-2.5D) and [graduation_project](https://github.com/ElectroWarriors/graduation_project).
+- Project descriptions: [RAPID-DTC](https://github.com/ElectroWarriors/RAPID-DTC), [ULTRA-2.5D](https://github.com/ElectroWarriors/ULTRA-2.5D), and [graduation_project](https://github.com/ElectroWarriors/graduation_project).
+- RAPID-DTC framework figure from the project's repository.
 - Project overview and interface screenshots supplied by Jinhong Huang.
 - Profile photograph supplied by Jinhong Huang.

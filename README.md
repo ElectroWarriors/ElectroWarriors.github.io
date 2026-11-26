@@ -11,6 +11,7 @@ Personal academic website for Jinhong Huang, a Ph.D. student at Fudan University
 - `research/index.html`: research interests and publications.
 - `projects/index.html`: ULTRA-2.5D and the undergraduate graduation project.
 - `education/index.html`: education.
+- `luoyang/index.html`: the supplied food map, accessible through the small map icon in the homepage footer.
 - `styles.css` and `script.js`: shared styles and optional theme switching.
 - `assets/`: profile image, project figures, and favicon.
 - `404.html`: custom not-found page.

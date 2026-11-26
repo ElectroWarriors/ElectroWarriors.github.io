@@ -73,6 +73,8 @@ figure .placement-figure { width: 840px; }
 figcaption { margin: 10px 0 0; color: var(--muted); font-size: 13px; line-height: 1.6; }
 .page-footer { background: var(--footer); border-top: 1px solid #bdc1c4; padding: 27px 18px; font-size: 12px; }
 .footer-inner { max-width: 1244px; margin: auto; }
+.map-shortcut { float: right; display: inline-flex; align-items: center; justify-content: center; width: 32px; height: 32px; margin-left: 12px; border: 1px solid transparent; border-radius: 4px; }
+.map-shortcut:hover { border-color: currentColor; }
 .page-footer p { margin: 0 0 5px; }
 .page-footer a { color: inherit; }
 .footer-follow { text-transform: uppercase; word-spacing: 4px; margin-bottom: 12px !important; }
